@@ -147,18 +147,6 @@ This tutorial uses `java.util.Random` for simplicity. For real-world use:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome — whether that's:
-
-- 🌍 Translations into other languages
-- 🧪 A companion validator implementation
-- 📖 Additional explanations or diagrams
-- 🐛 Bug fixes or code improvements
-
-Please open an issue first to discuss what you'd like to change.
-
----
 
 ## 📄 License
 
